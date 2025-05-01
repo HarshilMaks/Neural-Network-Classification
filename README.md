@@ -37,7 +37,7 @@ This project implements a multilayer neural network for classification tasks. Th
 
 ## Results
 
-- Achieved **99.62% accuracy** on the test set.  
+- Achieved **99% accuracy** on the test set.  
 - Training and validation loss curves illustrate the model's convergence.  
 - Confusion matrix highlights classification performance across classes.
 
