@@ -1,4 +1,4 @@
-# Neural Network Classification
+# Neural Network Classifier
 
 ## Overview
 
